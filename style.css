@@ -1,5 +1,5 @@
 
-/*
+
 .sidenav {
   height: 100%;
   width: 0;
@@ -94,5 +94,25 @@ p {
   border-radius: 55px;
 }
 
-*/
+.alaa {
+  font-family: "pokemon";
+  font-size: 60%;
+  scale: 1000%;
+}
 
+
+
+.reference_list{
+  font-family: "pokemon";
+  scale: 95%;
+}
+
+.socialmedia {
+  float: left;
+  width: 100%;
+  padding-left: 65%;
+}
+
+#sm{
+  width: 10%;
+}
