@@ -85,6 +85,10 @@ p {
 #ref {background: linear-gradient(to top right, #000000 6%, #4f504e 24%, #8a8b82 43%, #ffffff 100%);
 }
 
+#logo{
+  width:12%;
+}
+
 .gray_box {
   width:80%;
   padding: 5%;
@@ -94,11 +98,45 @@ p {
   border-radius: 55px;
 }
 
-.alaa {
+.rft {
   font-family: "pokemon";
   font-size: 60%;
-  scale: 1000%;
+  scale: 186%;
 }
+
+#gs{
+  scale: 100%;
+}
+
+
+
+
+
+
+
+
+.icons{
+  display: flex;
+  align-items: row;
+}
+
+
+
+.x{
+  width: 48%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -108,11 +146,35 @@ p {
 }
 
 .socialmedia {
-  float: left;
-  width: 100%;
-  padding-left: 65%;
+  width:50%;
+  margin-left: 65%;
+  border: solid;
 }
 
-#sm{
-  width: 10%;
+.imgsm{
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+  border:solid
+}
+
+#smi{
+  
+  border: solid;
+  width: 30%
+}
+
+#smy{
+ 
+  border: solid;
+  width: 10%
+}
+
+#smt{
+    border: solid;
+    width: 10%
+}
+.imgtest{
+  border:solid;
+  width: 35%
 }
