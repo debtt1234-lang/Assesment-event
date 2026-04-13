@@ -91,11 +91,77 @@ p {
 
 .gray_box {
   width:80%;
-  padding: 5%;
-  align-content: center;
-  place-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   background-color: #4D4D4D;
   border-radius: 55px;
+}
+
+.hl{
+    height: 50%;
+    width: 50%;
+}
+
+.featured{
+    display: flex;
+    align-items: flex-start;
+}
+
+#fire{
+  size: 10%;
+}
+
+.games_info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gamex_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+header{
+    background-color: #4b4b6f;
+}
+
+#logo{
+  size: 10%;
+}
+
+.hl{
+    height: 50%;
+    width: 50%;
+}
+
+.featured{
+    display: flex;
+    align-items: flex-start;
+}
+
+#fire{
+  size: 10%;
+}
+
+.games_info{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gamex_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+header{
+    background-color: #4b4b6f;
+}
+
+#logo{
+  size: 10%;
 }
 
 .rft {
