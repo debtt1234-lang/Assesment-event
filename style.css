@@ -38,7 +38,6 @@
 @font-face{
   font-family: "autotechno";
   src: url("./fonts/nasa.otf");
-
 }
 
 @font-face {
@@ -48,22 +47,20 @@
 
 @font-face{
   font-family: "pokemon";
-  src: url(./fonts/pokemonclassic.ttf);
+  src: url("./fonts/pokemonclassic.ttf");
 }
 
-h2 {font-family: "autotechno";
-  height: 15pt;
+h2 {
+  font-family: "autotechno";
 }
 
-h1 {font-family: "cubic";
+h1 {
+  font-family: "cubic";
   color: red;
-  scale: 160%;
-  padding-left: 25%
 }
 
 p {
   font-family: "pokemon";
-  scale: 82%
 }
 
 #indx {background: linear-gradient(to bottom, #ceced9 0%, #011c40 100%);
